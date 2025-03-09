@@ -54,12 +54,17 @@ igr-maharashtra/
 
 ## 🚀 Installation
 
-### Backend Setup
-
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/igr-maharashtra.git
-   cd igr-maharashtra/backend
+   git clone https://github.com/Ash469/IGR_MAHARASHTRA
+   cd IGR_MAHARASHTRA
+   ```
+
+### Backend Setup
+
+1. Navigate to the frontend directory:
+   ```sh
+   cd ./backend
    ```
 
 2. Install dependencies:
@@ -77,7 +82,7 @@ igr-maharashtra/
 
 1. Navigate to the frontend directory:
    ```sh
-   cd ../frontend
+   cd ./frontend
    ```
 
 2. Install dependencies:
